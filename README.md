@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Excel</h3>
+<h3 align="center">Aspiring Data Scientist | Python | SQL | Excel</h3>
 
 ---
 
