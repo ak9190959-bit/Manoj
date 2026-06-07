@@ -3,7 +3,7 @@
 
 ---
 
-## 📊 Data Analyst
+## 📊 Data Scientist
 
 <p align="center">
 <img src="https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp" width="600">
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduate from **India**
-- 📊 Learning **Data Analytics**
+- 📊 Learning **Data Scientist **
 - 🐍 Python | SQL | Excel
 - 💼 Looking for **Data Analyst / Junior Data Analyst roles**
 - 📈 Completed **5+ Data Analysis Projects**
